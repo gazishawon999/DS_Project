@@ -1,4 +1,4 @@
-# 🚀 DATA_STRUCTURE (Practice Codes)
+# 🚀 DATA_STRUCTURE (Project)
 
 This repository contains my practical implementations of **Data Structures in C**, covering both **Array** and **Linked List** operations.
 
